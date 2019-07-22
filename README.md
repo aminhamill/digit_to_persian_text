@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Usage:
+Usage:\n
         digits_to_text("1123001") # result: یک میلیون و صد و بیست و سه هزار و یک
 
 ## Development
